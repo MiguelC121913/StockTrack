@@ -4,6 +4,7 @@
 
 **Track your stocks. Explore history. Simulate the past.**
 
+[![Live demo](https://img.shields.io/badge/demo-vercel-black?logo=vercel)](https://stocktrack-iota.vercel.app)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](./LICENSE)
 [![Next.js](https://img.shields.io/badge/Next.js-16-black?logo=next.js)](https://nextjs.org)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5-blue?logo=typescript)](https://www.typescriptlang.org)
@@ -18,6 +19,12 @@
 ---
 
 ## 🇲🇽 Español
+
+## 🌐 Demo en vivo
+
+👉 **[stocktrack-iota.vercel.app](https://stocktrack-iota.vercel.app)**
+
+Inicia sesión con tu cuenta de Google para probar el dashboard, agregar acciones a tu portafolio, y correr simulaciones retrospectivas.
 
 ### ¿Qué es StockTrack?
 
@@ -105,6 +112,8 @@ Abre [http://localhost:3000](http://localhost:3000).
 
 Para guía detallada de cada variable de entorno → [docs/SETUP.md](./docs/SETUP.md)
 
+> 💡 **Tip**: Si solo quieres ver el proyecto en acción sin configurar nada, usa el [demo en vivo](https://stocktrack-iota.vercel.app).
+
 ### Limitaciones conocidas
 
 - Twelve Data free tier: histórico máximo ~5000 registros (~14 años de datos diarios)
@@ -132,6 +141,12 @@ Para guía detallada de cada variable de entorno → [docs/SETUP.md](./docs/SETU
 ---
 
 ## 🇺🇸 English
+
+## 🌐 Live demo
+
+👉 **[stocktrack-iota.vercel.app](https://stocktrack-iota.vercel.app)**
+
+Sign in with your Google account to try the dashboard, add stocks to your portfolio, and run retrospective backtests.
 
 ### What is StockTrack?
 
@@ -218,6 +233,8 @@ npm run dev
 Open [http://localhost:3000](http://localhost:3000).
 
 For a step-by-step guide on obtaining each credential → [docs/SETUP.md](./docs/SETUP.md)
+
+> 💡 **Tip**: If you just want to see the project in action without any setup, try the [live demo](https://stocktrack-iota.vercel.app).
 
 ### Known limitations
 
